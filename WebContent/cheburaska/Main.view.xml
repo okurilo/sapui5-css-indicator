@@ -1,0 +1,13 @@
+<core:View 
+ xmlns:core="sap.ui.core" 
+ xmlns:mvc="sap.ui.core.mvc" 
+ xmlns="sap.m"
+ controllerName="cheburaska.Main" 
+ xmlns:c="cheburaska.control"
+ xmlns:html="http://www.w3.org/1999/xhtml" >
+	<Page backgroundDesign="Solid" title="Title">
+		<content>
+			<c:SWIndicator right="4" left="1" size="12" />
+		</content>
+	</Page>
+</core:View>
